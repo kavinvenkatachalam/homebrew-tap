@@ -3,9 +3,9 @@
 class Devdeck < Formula
   desc "Dev cockpit: Claude and Codex sessions per worktree, dev servers, on the Mac and the phone"
   homepage "https://github.com/kavinvenkatachalam/devdeck"
-  url "https://github.com/kavinvenkatachalam/devdeck/releases/download/v0.5.3/devdeck-0.5.3-darwin-arm64.tar.gz"
-  version "0.5.3"
-  sha256 "f10f7c412e5b3b957c21a00541c6b1d6be98bbb60f2af7d30594cb986748f410"
+  url "https://github.com/kavinvenkatachalam/devdeck/releases/download/v0.5.4/devdeck-0.5.4-darwin-arm64.tar.gz"
+  version "0.5.4"
+  sha256 "86f0a0ddaea81290eff593d33dd45b8597fd4ca3b167cb32140341820ea15a4e"
   license "MIT"
 
   depends_on arch: :arm64
